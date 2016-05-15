@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>img/25037_86336831AB1B4E321F95_1.jpeg</file>
+        <file>img/Backbutton.gif</file>
+        <file>img/bg.png</file>
+        <file>img/w.png</file>
+        <file>img/y.png</file>
+        <file>img/P.png</file>
+        <file>img/sfieldflash_blue.png</file>
+        <file>img/e.png</file>
+        <file>img/PI2.png</file>
+        <file>img/PI.png</file>
+    </qresource>
+</RCC>
