@@ -28,9 +28,6 @@ public:
     /* Variable */
     // For button
     Btn *btn_start;
-    Btn *btn_change_ball;
-    Btn *btn_pause;
-    Btn *btn_conti;
     Btn *btn_back;
     Btn *drum;
     Btn *tube;

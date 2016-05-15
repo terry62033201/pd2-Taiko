@@ -51,7 +51,7 @@ void Scene::mousePressEvent(QGraphicsSceneMouseEvent *event)
             }
         }
 
-        if(event->scenePos().x() > btn_exit->pos().x() && event->scenePos().x() <= btn_exit->pos().x() + 50)
+        if(event->scenePos().x() > btn_exit->pos().x() && event->scenePos().x() <= btn_exit->pos().x() + 65)
         {
             if(event->scenePos().y() > btn_exit->pos().y() && event->scenePos().y() <= btn_exit->pos().y() +50)
             {
