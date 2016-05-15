@@ -21,7 +21,6 @@ public:
     void bgChange(); // For background change from start to game
     void bgRecover(); // For background change back to start page
     void gameInit(); // Start the game page
-    void movingBlock(); // Moving block down
     void mousePressEvent(QGraphicsSceneMouseEvent *event);
     void ball();
 
